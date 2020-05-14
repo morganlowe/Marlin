@@ -3,7 +3,7 @@ This is a fork of the main Marlin FW branch for the 3DLS. The 3DLS can be found 
 Below is all the information from the main Marlin Github. All credit to the talented team behind this firmware. Without Marlin this project would not be possible!
 
 
-Thank you Marlin team!
+# Thank you Marlin team!
 
 
 
