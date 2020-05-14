@@ -1,5 +1,7 @@
 This is a fork of the main Marlin FW branch for the 3DLS. The 3DLS can be found on [Thingiverse here](https://www.thingiverse.com/thing:4031698).
 
+This includes a pre-compiled firmware for the SKR 1.4 Turbo board. This is the reccomenmded control board for the 3DLS.
+
 Below is all the information from the main Marlin Github. All credit to the talented team behind this firmware. Without Marlin this project would not be possible!
 
 
